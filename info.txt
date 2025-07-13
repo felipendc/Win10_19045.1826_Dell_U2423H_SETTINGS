@@ -1,0 +1,26 @@
+//-------------------------------------------------------------------------//
+CURRENT DELL U2423H SETTINGS:
+
+OS:
+Edition	Windows 10 Pro
+Version	22H2
+Installed on	‎7/‎9/‎2025
+OS build	19045.1826
+Experience	Windows Feature Experience Pack 120.2212.4180.0
+
+
+No DELL_U2422H-MONITOR_A00-00_DRVR_TWRKC Windows color preset installed.
+Brightness: 45
+Constrast: 70
+Preset mode: Default
+
+
+
+
+//-------------------------------------------------------------------------//
+OLD DELL U2423H SETTINGS:
+OS: Windows 11 Pro ...3155
+No DELL_U2422H-MONITOR_A00-00_DRVR_TWRKC Windows color preset installed.
+Brightness: 63
+Constrast: 69
+Preset mode: Default
